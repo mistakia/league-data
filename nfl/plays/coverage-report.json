@@ -1,0 +1,1462 @@
+{
+  "esbid": {
+    "column": "esbid",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "playId": {
+    "column": "playId",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "sequence": {
+    "column": "sequence",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "state": {
+    "column": "state",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.39572793704328
+  },
+  "dwn": {
+    "column": "dwn",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "home_score": {
+    "column": "home_score",
+    "available_since": "2001/09/09",
+    "coverage_since": 96.47457627118644
+  },
+  "special": {
+    "column": "special",
+    "available_since": "2001/09/09",
+    "coverage_since": 96.47457627118644
+  },
+  "desc": {
+    "column": "desc",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "play_type_ngs": {
+    "column": "play_type_ngs",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.38167509836987
+  },
+  "pos_team": {
+    "column": "pos_team",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "pos_team_id": {
+    "column": "pos_team_id",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.38167509836987
+  },
+  "qtr": {
+    "column": "qtr",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "year": {
+    "column": "year",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "seas_type": {
+    "column": "seas_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "away_score": {
+    "column": "away_score",
+    "available_since": "2001/09/09",
+    "coverage_since": 96.47457627118644
+  },
+  "week": {
+    "column": "week",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "ydl_num": {
+    "column": "ydl_num",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.91940899932841
+  },
+  "ydl_side": {
+    "column": "ydl_side",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.91940899932841
+  },
+  "yards_to_go": {
+    "column": "yards_to_go",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "off_formation": {
+    "column": "off_formation",
+    "available_since": "2016/08/11",
+    "coverage_since": 98.15028901734104
+  },
+  "off_personnel": {
+    "column": "off_personnel",
+    "available_since": "2016/08/11",
+    "coverage_since": 98.1888246628131
+  },
+  "box_ngs": {
+    "column": "box_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 98.15028901734104
+  },
+  "pru_ngs": {
+    "column": "pru_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 98.15028901734104
+  },
+  "def_personnel": {
+    "column": "def_personnel",
+    "available_since": "2016/08/11",
+    "coverage_since": 98.1888246628131
+  },
+  "game_clock_start": {
+    "column": "game_clock_start",
+    "available_since": "2001/01/06",
+    "coverage_since": 68.54264607118871
+  },
+  "drive_seq": {
+    "column": "drive_seq",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "ydl_end": {
+    "column": "ydl_end",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.10006715916722
+  },
+  "ydl_start": {
+    "column": "ydl_start",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "first_down": {
+    "column": "first_down",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "goal_to_go": {
+    "column": "goal_to_go",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "next_play_type": {
+    "column": "next_play_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 98.2941571524513
+  },
+  "penalty": {
+    "column": "penalty",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "drive_yds": {
+    "column": "drive_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 95.87642713230356
+  },
+  "drive_play_count": {
+    "column": "drive_play_count",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.10006715916722
+  },
+  "play_clock": {
+    "column": "play_clock",
+    "available_since": "2001/01/06",
+    "coverage_since": 69.01276024177301
+  },
+  "deleted": {
+    "column": "deleted",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "review": {
+    "column": "review",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "score": {
+    "column": "score",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "score_type": {
+    "column": "score_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.10006715916722
+  },
+  "score_team": {
+    "column": "score_team",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.10006715916722
+  },
+  "special_play_type": {
+    "column": "special_play_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 15.715245130960376
+  },
+  "timestamp": {
+    "column": "timestamp",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "play_type_nfl": {
+    "column": "play_type_nfl",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.11349899261249
+  },
+  "updated": {
+    "column": "updated",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "off": {
+    "column": "off",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "def": {
+    "column": "def",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "play_type": {
+    "column": "play_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "player_fuml_pid": {
+    "column": "player_fuml_pid",
+    "available_since": "2002/08/08",
+    "coverage_since": 70.50885577734046
+  },
+  "player_fuml_gsis": {
+    "column": "player_fuml_gsis",
+    "available_since": "2002/08/08",
+    "coverage_since": 70.81810514478494
+  },
+  "bc_pid": {
+    "column": "bc_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.97189432265317
+  },
+  "bc_gsis": {
+    "column": "bc_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.97189432265317
+  },
+  "psr_pid": {
+    "column": "psr_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.97189432265317
+  },
+  "psr_gsis": {
+    "column": "psr_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.97189432265317
+  },
+  "trg_pid": {
+    "column": "trg_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 93.05789769533446
+  },
+  "trg_gsis": {
+    "column": "trg_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 93.05789769533446
+  },
+  "intp_pid": {
+    "column": "intp_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 82.95390668915121
+  },
+  "intp_gsis": {
+    "column": "intp_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 83.61439010680158
+  },
+  "yds_gained": {
+    "column": "yds_gained",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "dot": {
+    "column": "dot",
+    "available_since": "2001/01/06",
+    "coverage_since": 91.75285426460712
+  },
+  "yards_after_catch": {
+    "column": "yards_after_catch",
+    "available_since": "2006/08/06",
+    "coverage_since": 99.98271391529819
+  },
+  "yards_after_any_contact": {
+    "column": "yards_after_any_contact",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "ret_yds": {
+    "column": "ret_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 84.19073203492276
+  },
+  "qb_pressure": {
+    "column": "qb_pressure",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "qb_hit": {
+    "column": "qb_hit",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "qb_hurry": {
+    "column": "qb_hurry",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "highlight_pass": {
+    "column": "highlight_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "int_worthy": {
+    "column": "int_worthy",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "dropped_pass": {
+    "column": "dropped_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "contested_ball": {
+    "column": "contested_ball",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "mbt": {
+    "column": "mbt",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "fuml": {
+    "column": "fuml",
+    "available_since": "2001/01/06",
+    "coverage_since": 71.59167226326393
+  },
+  "int": {
+    "column": "int",
+    "available_since": "2001/01/06",
+    "coverage_since": 84.2578912021491
+  },
+  "sk": {
+    "column": "sk",
+    "available_since": "2001/01/06",
+    "coverage_since": 97.94492948287441
+  },
+  "succ": {
+    "column": "succ",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "comp": {
+    "column": "comp",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "td": {
+    "column": "td",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.18065815983881
+  },
+  "ret_td": {
+    "column": "ret_td",
+    "available_since": "2001/01/06",
+    "coverage_since": 20.107454667562124
+  },
+  "td_tm": {
+    "column": "td_tm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "ret_tm": {
+    "column": "ret_tm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "charted": {
+    "column": "charted",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "yfog": {
+    "column": "yfog",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "true_air_yards": {
+    "column": "true_air_yards",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "created_reception": {
+    "column": "created_reception",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "avsk": {
+    "column": "avsk",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "no_huddle": {
+    "column": "no_huddle",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "play_action": {
+    "column": "play_action",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "trick_look": {
+    "column": "trick_look",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "trick_play": {
+    "column": "trick_play",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "qb_rush": {
+    "column": "qb_rush",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "qb_sneak": {
+    "column": "qb_sneak",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "qb_scramble": {
+    "column": "qb_scramble",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "hindered_pass": {
+    "column": "hindered_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "zero_blitz": {
+    "column": "zero_blitz",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "stunt": {
+    "column": "stunt",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "out_of_pocket_pass": {
+    "column": "out_of_pocket_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "phyb": {
+    "column": "phyb",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "catchable_ball": {
+    "column": "catchable_ball",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "throw_away": {
+    "column": "throw_away",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "shovel_pass": {
+    "column": "shovel_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "sideline_pass": {
+    "column": "sideline_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "batted_pass": {
+    "column": "batted_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "screen_pass": {
+    "column": "screen_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "pain_free_play": {
+    "column": "pain_free_play",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "qb_fault_sack": {
+    "column": "qb_fault_sack",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "ttscrm": {
+    "column": "ttscrm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "time_to_pass": {
+    "column": "time_to_pass",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "ttsk": {
+    "column": "ttsk",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "time_to_pressure": {
+    "column": "time_to_pressure",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "back": {
+    "column": "back",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "xlm": {
+    "column": "xlm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "db": {
+    "column": "db",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "box": {
+    "column": "box",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "boxdb": {
+    "column": "boxdb",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "pass_rushers": {
+    "column": "pass_rushers",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "blitzers": {
+    "column": "blitzers",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "db_blitzers": {
+    "column": "db_blitzers",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "oopd": {
+    "column": "oopd",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "cov": {
+    "column": "cov",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "cov_type_charted": {
+    "column": "cov_type_charted",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "sep": {
+    "column": "sep",
+    "available_since": "2021/09/10",
+    "coverage_since": 23.42436974789916
+  },
+  "ydl_100": {
+    "column": "ydl_100",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.07320349227669
+  },
+  "drive_result": {
+    "column": "drive_result",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_top": {
+    "column": "drive_top",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_fds": {
+    "column": "drive_fds",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_inside20": {
+    "column": "drive_inside20",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_score": {
+    "column": "drive_score",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_start_qtr": {
+    "column": "drive_start_qtr",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_end_qtr": {
+    "column": "drive_end_qtr",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_yds_penalized": {
+    "column": "drive_yds_penalized",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_start_transition": {
+    "column": "drive_start_transition",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_end_transition": {
+    "column": "drive_end_transition",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_game_clock_start": {
+    "column": "drive_game_clock_start",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_game_clock_end": {
+    "column": "drive_game_clock_end",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_start_ydl": {
+    "column": "drive_start_ydl",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_end_ydl": {
+    "column": "drive_end_ydl",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_start_play_id": {
+    "column": "drive_start_play_id",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "drive_end_play_id": {
+    "column": "drive_end_play_id",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "series_seq": {
+    "column": "series_seq",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "series_suc": {
+    "column": "series_suc",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "series_result": {
+    "column": "series_result",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "game_clock_end": {
+    "column": "game_clock_end",
+    "available_since": "2001/09/09",
+    "coverage_since": 47.91864406779661
+  },
+  "sec_rem_qtr": {
+    "column": "sec_rem_qtr",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "sec_rem_half": {
+    "column": "sec_rem_half",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "sec_rem_gm": {
+    "column": "sec_rem_gm",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "fum": {
+    "column": "fum",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "incomp": {
+    "column": "incomp",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "touchback": {
+    "column": "touchback",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "safety": {
+    "column": "safety",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "oob": {
+    "column": "oob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "tfl": {
+    "column": "tfl",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "rush": {
+    "column": "rush",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "pass": {
+    "column": "pass",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "solo_tk": {
+    "column": "solo_tk",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "assist_tk": {
+    "column": "assist_tk",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "pen_team": {
+    "column": "pen_team",
+    "available_since": "2002/09/05",
+    "coverage_since": 58.09929078014184
+  },
+  "pen_yds": {
+    "column": "pen_yds",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.552542372881355
+  },
+  "pass_td": {
+    "column": "pass_td",
+    "available_since": "2001/01/06",
+    "coverage_since": 96.26595030221625
+  },
+  "rush_td": {
+    "column": "rush_td",
+    "available_since": "2001/01/06",
+    "coverage_since": 91.0678307588986
+  },
+  "pass_yds": {
+    "column": "pass_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "recv_yds": {
+    "column": "recv_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "rush_yds": {
+    "column": "rush_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.98656816655473
+  },
+  "qb_dropback": {
+    "column": "qb_dropback",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "qb_kneel": {
+    "column": "qb_kneel",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "qb_spike": {
+    "column": "qb_spike",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "run_location": {
+    "column": "run_location",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "run_gap": {
+    "column": "run_gap",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.57966101694915
+  },
+  "first_down_rush": {
+    "column": "first_down_rush",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "first_down_pass": {
+    "column": "first_down_pass",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "first_down_penalty": {
+    "column": "first_down_penalty",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "third_down_converted": {
+    "column": "third_down_converted",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "third_down_failed": {
+    "column": "third_down_failed",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "fourth_down_converted": {
+    "column": "fourth_down_converted",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "fourth_down_failed": {
+    "column": "fourth_down_failed",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "ep": {
+    "column": "ep",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "epa": {
+    "column": "epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "ep_succ": {
+    "column": "ep_succ",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_home_epa": {
+    "column": "total_home_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_away_epa": {
+    "column": "total_away_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_home_rush_epa": {
+    "column": "total_home_rush_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_away_rush_epa": {
+    "column": "total_away_rush_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_home_pass_epa": {
+    "column": "total_home_pass_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_away_pass_epa": {
+    "column": "total_away_pass_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "qb_epa": {
+    "column": "qb_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "air_epa": {
+    "column": "air_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "yac_epa": {
+    "column": "yac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "comp_air_epa": {
+    "column": "comp_air_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "comp_yac_epa": {
+    "column": "comp_yac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "xyac_epa": {
+    "column": "xyac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_comp_air_epa": {
+    "column": "total_home_comp_air_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_comp_air_epa": {
+    "column": "total_away_comp_air_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_comp_yac_epa": {
+    "column": "total_home_comp_yac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_comp_yac_epa": {
+    "column": "total_away_comp_yac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_raw_air_epa": {
+    "column": "total_home_raw_air_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_raw_air_epa": {
+    "column": "total_away_raw_air_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_raw_yac_epa": {
+    "column": "total_home_raw_yac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_raw_yac_epa": {
+    "column": "total_away_raw_yac_epa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "wp": {
+    "column": "wp",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "wpa": {
+    "column": "wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "home_wp": {
+    "column": "home_wp",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "away_wp": {
+    "column": "away_wp",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "vegas_wpa": {
+    "column": "vegas_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "vegas_home_wpa": {
+    "column": "vegas_home_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "home_wp_post": {
+    "column": "home_wp_post",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "away_wp_post": {
+    "column": "away_wp_post",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "vegas_wp": {
+    "column": "vegas_wp",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "vegas_home_wp": {
+    "column": "vegas_home_wp",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_home_rush_wpa": {
+    "column": "total_home_rush_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_away_rush_wpa": {
+    "column": "total_away_rush_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_home_pass_wpa": {
+    "column": "total_home_pass_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "total_away_pass_wpa": {
+    "column": "total_away_pass_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "air_wpa": {
+    "column": "air_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "yac_wpa": {
+    "column": "yac_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "comp_air_wpa": {
+    "column": "comp_air_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "comp_yac_wpa": {
+    "column": "comp_yac_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_comp_air_wpa": {
+    "column": "total_home_comp_air_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_comp_air_wpa": {
+    "column": "total_away_comp_air_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_comp_yac_wpa": {
+    "column": "total_home_comp_yac_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_comp_yac_wpa": {
+    "column": "total_away_comp_yac_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_raw_air_wpa": {
+    "column": "total_home_raw_air_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_raw_air_wpa": {
+    "column": "total_away_raw_air_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_home_raw_yac_wpa": {
+    "column": "total_home_raw_yac_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "total_away_raw_yac_wpa": {
+    "column": "total_away_raw_yac_wpa",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "xyac_mean_yds": {
+    "column": "xyac_mean_yds",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "xyac_median_yds": {
+    "column": "xyac_median_yds",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "xyac_succ_prob": {
+    "column": "xyac_succ_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "xyac_fd_prob": {
+    "column": "xyac_fd_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "ep_att": {
+    "column": "ep_att",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "two_att": {
+    "column": "two_att",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "fg_att": {
+    "column": "fg_att",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "kickoff_att": {
+    "column": "kickoff_att",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "punt_att": {
+    "column": "punt_att",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "fg_result": {
+    "column": "fg_result",
+    "available_since": "2001/09/09",
+    "coverage_since": 54.847457627118644
+  },
+  "kick_distance": {
+    "column": "kick_distance",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.566101694915254
+  },
+  "ep_result": {
+    "column": "ep_result",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.14576271186441
+  },
+  "tp_result": {
+    "column": "tp_result",
+    "available_since": "2001/09/09",
+    "coverage_since": 18.698305084745762
+  },
+  "punt_blocked": {
+    "column": "punt_blocked",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "home_to_rem": {
+    "column": "home_to_rem",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "away_to_rem": {
+    "column": "away_to_rem",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "pos_to_rem": {
+    "column": "pos_to_rem",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "def_to_rem": {
+    "column": "def_to_rem",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "to": {
+    "column": "to",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "to_team": {
+    "column": "to_team",
+    "available_since": "2002/09/05",
+    "coverage_since": 58.05673758865248
+  },
+  "pos_score": {
+    "column": "pos_score",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "def_score": {
+    "column": "def_score",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "score_diff": {
+    "column": "score_diff",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "pos_score_post": {
+    "column": "pos_score_post",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "def_score_post": {
+    "column": "def_score_post",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "score_diff_post": {
+    "column": "score_diff_post",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "no_score_prob": {
+    "column": "no_score_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "opp_fg_prob": {
+    "column": "opp_fg_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "opp_safety_prob": {
+    "column": "opp_safety_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "opp_td_prob": {
+    "column": "opp_td_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "fg_prob": {
+    "column": "fg_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "safety_prob": {
+    "column": "safety_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "td_prob": {
+    "column": "td_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "extra_point_prob": {
+    "column": "extra_point_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 55.59322033898305
+  },
+  "two_conv_prob": {
+    "column": "two_conv_prob",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "xpass_prob": {
+    "column": "xpass_prob",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "pass_oe": {
+    "column": "pass_oe",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "cp": {
+    "column": "cp",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "cpoe": {
+    "column": "cpoe",
+    "available_since": "2001/09/09",
+    "coverage_since": 51.9728813559322
+  },
+  "air_yards_ngs": {
+    "column": "air_yards_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 96.95568400770713
+  },
+  "time_to_throw_ngs": {
+    "column": "time_to_throw_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 96.95568400770713
+  },
+  "route_ngs": {
+    "column": "route_ngs",
+    "available_since": "2016/08/27",
+    "coverage_since": 95.93591246580695
+  },
+  "man_zone_ngs": {
+    "column": "man_zone_ngs",
+    "available_since": "2018/08/09",
+    "coverage_since": 94.1511387163561
+  },
+  "cov_type_ngs": {
+    "column": "cov_type_ngs",
+    "available_since": "2018/08/09",
+    "coverage_since": 94.1511387163561
+  },
+  "qb_pressure_ngs": {
+    "column": "qb_pressure_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 96.95568400770713
+  },
+  "starting_hash": {
+    "column": "starting_hash",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "ftn_play_id": {
+    "column": "ftn_play_id",
+    "available_since": "2022/09/08",
+    "coverage_since": 92.07119741100324
+  },
+  "qb_position": {
+    "column": "qb_position",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "n_offense_backfield": {
+    "column": "n_offense_backfield",
+    "available_since": "2022/09/08",
+    "coverage_since": 92.07119741100324
+  },
+  "run_play_option": {
+    "column": "run_play_option",
+    "available_since": "2022/09/08",
+    "coverage_since": 92.07119741100324
+  },
+  "read_thrown": {
+    "column": "read_thrown",
+    "available_since": "2021/09/10",
+    "coverage_since": 83.19327731092437
+  },
+  "motion": {
+    "column": "motion",
+    "available_since": "2022/09/08",
+    "coverage_since": 92.07119741100324
+  },
+  "solo_tackle_1_gsis": {
+    "column": "solo_tackle_1_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.97189432265317
+  },
+  "solo_tackle_1_pid": {
+    "column": "solo_tackle_1_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.97189432265317
+  },
+  "solo_tackle_2_gsis": {
+    "column": "solo_tackle_2_gsis",
+    "available_since": "2016/08/11",
+    "coverage_since": 42.73603082851638
+  },
+  "solo_tackle_2_pid": {
+    "column": "solo_tackle_2_pid",
+    "available_since": "2016/08/11",
+    "coverage_since": 42.73603082851638
+  },
+  "solo_tackle_3_gsis": {
+    "column": "solo_tackle_3_gsis",
+    "available_since": "2016/09/19",
+    "coverage_since": 0.39984006397441024
+  },
+  "solo_tackle_3_pid": {
+    "column": "solo_tackle_3_pid",
+    "available_since": "2016/09/19",
+    "coverage_since": 0.39984006397441024
+  },
+  "assisted_tackle_1_gsis": {
+    "column": "assisted_tackle_1_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 80.57897695334458
+  },
+  "assisted_tackle_1_pid": {
+    "column": "assisted_tackle_1_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 79.97470489038786
+  },
+  "assisted_tackle_2_gsis": {
+    "column": "assisted_tackle_2_gsis",
+    "available_since": "2022/11/06",
+    "coverage_since": 0.20242914979757085
+  },
+  "assisted_tackle_2_pid": {
+    "column": "assisted_tackle_2_pid",
+    "available_since": "2022/11/06",
+    "coverage_since": 0.20242914979757085
+  },
+  "tackle_assist_1_gsis": {
+    "column": "tackle_assist_1_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.83136593591905
+  },
+  "tackle_assist_1_pid": {
+    "column": "tackle_assist_1_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 99.77515458122541
+  },
+  "tackle_assist_2_gsis": {
+    "column": "tackle_assist_2_gsis",
+    "available_since": "2016/08/11",
+    "coverage_since": 97.14836223506744
+  },
+  "tackle_assist_2_pid": {
+    "column": "tackle_assist_2_pid",
+    "available_since": "2016/08/11",
+    "coverage_since": 97.14836223506744
+  },
+  "tackle_assist_3_gsis": {
+    "column": "tackle_assist_3_gsis",
+    "available_since": "2019/10/27",
+    "coverage_since": 0.13995801259622112
+  },
+  "tackle_assist_3_pid": {
+    "column": "tackle_assist_3_pid",
+    "available_since": "2019/10/27",
+    "coverage_since": 0.13995801259622112
+  },
+  "tackle_assist_4_gsis": {
+    "column": "tackle_assist_4_gsis",
+    "available_since": "2019/10/27",
+    "coverage_since": 0.13995801259622112
+  },
+  "tackle_assist_4_pid": {
+    "column": "tackle_assist_4_pid",
+    "available_since": "2019/10/27",
+    "coverage_since": 0.13995801259622112
+  }
+}

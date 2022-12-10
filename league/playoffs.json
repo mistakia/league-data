@@ -1,0 +1,482 @@
+[
+  {
+    "uid": 1,
+    "tid": 1,
+    "lid": 1,
+    "year": 2020,
+    "week": 14,
+    "points": 166.45,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 2,
+    "lid": 1,
+    "year": 2020,
+    "week": 14,
+    "points": 118.65,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 7,
+    "lid": 1,
+    "year": 2020,
+    "week": 14,
+    "points": 150.67,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 10,
+    "lid": 1,
+    "year": 2020,
+    "week": 14,
+    "points": 143.77,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 1,
+    "lid": 1,
+    "year": 2020,
+    "week": 15,
+    "points": 136.95,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 4,
+    "lid": 1,
+    "year": 2020,
+    "week": 15,
+    "points": 155.25,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 7,
+    "lid": 1,
+    "year": 2020,
+    "week": 15,
+    "points": 135.5,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 11,
+    "lid": 1,
+    "year": 2020,
+    "week": 15,
+    "points": 152.29,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 1,
+    "lid": 1,
+    "year": 2020,
+    "week": 16,
+    "points": 176.35,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 4,
+    "lid": 1,
+    "year": 2020,
+    "week": 16,
+    "points": 143.44,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 7,
+    "lid": 1,
+    "year": 2020,
+    "week": 16,
+    "points": 113.4,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 11,
+    "lid": 1,
+    "year": 2020,
+    "week": 16,
+    "points": 178.9,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 2,
+    "lid": 1,
+    "year": 2021,
+    "week": 15,
+    "points": 111.85,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 3,
+    "lid": 1,
+    "year": 2021,
+    "week": 15,
+    "points": 94.31,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 10,
+    "lid": 1,
+    "year": 2021,
+    "week": 15,
+    "points": 112.57,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 11,
+    "lid": 1,
+    "year": 2021,
+    "week": 15,
+    "points": 111.15,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 1,
+    "lid": 1,
+    "year": 2021,
+    "week": 16,
+    "points": 175.47,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 2,
+    "lid": 1,
+    "year": 2021,
+    "week": 16,
+    "points": 124.1,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 5,
+    "lid": 1,
+    "year": 2021,
+    "week": 16,
+    "points": 144.06,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 10,
+    "lid": 1,
+    "year": 2021,
+    "week": 16,
+    "points": 101.44,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 1,
+    "lid": 1,
+    "year": 2021,
+    "week": 17,
+    "points": 193.9,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 2,
+    "lid": 1,
+    "year": 2021,
+    "week": 17,
+    "points": 138.35,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 5,
+    "lid": 1,
+    "year": 2021,
+    "week": 17,
+    "points": 114.59,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 10,
+    "lid": 1,
+    "year": 2021,
+    "week": 17,
+    "points": 147.85,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 2,
+    "lid": 1,
+    "year": 2022,
+    "week": 15,
+    "points": 112.8,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 4,
+    "lid": 1,
+    "year": 2022,
+    "week": 15,
+    "points": 125.45,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 5,
+    "lid": 1,
+    "year": 2022,
+    "week": 15,
+    "points": 160.25,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 10,
+    "lid": 1,
+    "year": 2022,
+    "week": 15,
+    "points": 153.05,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 1,
+    "lid": 1,
+    "year": 2022,
+    "week": 16,
+    "points": 160.85,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 5,
+    "lid": 1,
+    "year": 2022,
+    "week": 16,
+    "points": 156.16,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 10,
+    "lid": 1,
+    "year": 2022,
+    "week": 16,
+    "points": 136.22,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 2,
+    "tid": 11,
+    "lid": 1,
+    "year": 2022,
+    "week": 16,
+    "points": 126.99,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 1,
+    "lid": 1,
+    "year": 2022,
+    "week": 17,
+    "points": 80.76,
+    "points_manual": 144.46,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 5,
+    "lid": 1,
+    "year": 2022,
+    "week": 17,
+    "points": 146.13,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 10,
+    "lid": 1,
+    "year": 2022,
+    "week": 17,
+    "points": 97.54,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 3,
+    "tid": 11,
+    "lid": 1,
+    "year": 2022,
+    "week": 17,
+    "points": 131.2,
+    "points_manual": null,
+    "projection": null
+  },
+  {
+    "uid": 1,
+    "tid": 4,
+    "lid": 1,
+    "year": 2023,
+    "week": 15,
+    "points": 201.78,
+    "points_manual": null,
+    "projection": 136
+  },
+  {
+    "uid": 1,
+    "tid": 5,
+    "lid": 1,
+    "year": 2023,
+    "week": 15,
+    "points": 123.65,
+    "points_manual": null,
+    "projection": 126
+  },
+  {
+    "uid": 1,
+    "tid": 7,
+    "lid": 1,
+    "year": 2023,
+    "week": 15,
+    "points": 82.2,
+    "points_manual": null,
+    "projection": 118
+  },
+  {
+    "uid": 1,
+    "tid": 11,
+    "lid": 1,
+    "year": 2023,
+    "week": 15,
+    "points": 72.39,
+    "points_manual": null,
+    "projection": 123
+  },
+  {
+    "uid": 2,
+    "tid": 1,
+    "lid": 1,
+    "year": 2023,
+    "week": 16,
+    "points": 168.6,
+    "points_manual": null,
+    "projection": 135
+  },
+  {
+    "uid": 2,
+    "tid": 2,
+    "lid": 1,
+    "year": 2023,
+    "week": 16,
+    "points": 108.72,
+    "points_manual": null,
+    "projection": 129
+  },
+  {
+    "uid": 2,
+    "tid": 4,
+    "lid": 1,
+    "year": 2023,
+    "week": 16,
+    "points": 83.35,
+    "points_manual": null,
+    "projection": 123
+  },
+  {
+    "uid": 2,
+    "tid": 5,
+    "lid": 1,
+    "year": 2023,
+    "week": 16,
+    "points": 141.3,
+    "points_manual": null,
+    "projection": 124
+  },
+  {
+    "uid": 3,
+    "tid": 1,
+    "lid": 1,
+    "year": 2023,
+    "week": 17,
+    "points": 112.24,
+    "points_manual": null,
+    "projection": 142
+  },
+  {
+    "uid": 3,
+    "tid": 2,
+    "lid": 1,
+    "year": 2023,
+    "week": 17,
+    "points": 94.22,
+    "points_manual": null,
+    "projection": 128
+  },
+  {
+    "uid": 3,
+    "tid": 4,
+    "lid": 1,
+    "year": 2023,
+    "week": 17,
+    "points": 130.95,
+    "points_manual": null,
+    "projection": 128
+  },
+  {
+    "uid": 3,
+    "tid": 5,
+    "lid": 1,
+    "year": 2023,
+    "week": 17,
+    "points": 107.45,
+    "points_manual": null,
+    "projection": 134
+  }
+]
