@@ -1,0 +1,1362 @@
+{
+  "air_epa": {
+    "column": "air_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "air_wpa": {
+    "column": "air_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "air_yards_ngs": {
+    "column": "air_yards_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 33.7945
+  },
+  "assist_tk": {
+    "column": "assist_tk",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "avsk": {
+    "column": "avsk",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "away_score": {
+    "column": "away_score",
+    "available_since": "2002/08/03",
+    "coverage_since": 95.5541
+  },
+  "away_to_rem": {
+    "column": "away_to_rem",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "away_wp": {
+    "column": "away_wp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "away_wp_post": {
+    "column": "away_wp_post",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "back": {
+    "column": "back",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "bap": {
+    "column": "bap",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "bc_gsis": {
+    "column": "bc_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.8959
+  },
+  "bc_pid": {
+    "column": "bc_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.8959
+  },
+  "blz": {
+    "column": "blz",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "box": {
+    "column": "box",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "box_ngs": {
+    "column": "box_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 34.2109
+  },
+  "boxdb": {
+    "column": "boxdb",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "cball": {
+    "column": "cball",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "charted": {
+    "column": "charted",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "cnb": {
+    "column": "cnb",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "comp": {
+    "column": "comp",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "comp_air_epa": {
+    "column": "comp_air_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "comp_air_wpa": {
+    "column": "comp_air_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "comp_yac_epa": {
+    "column": "comp_yac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "comp_yac_wpa": {
+    "column": "comp_yac_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "cov": {
+    "column": "cov",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "cov_type_charted": {
+    "column": "cov_type_charted",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "cov_type_ngs": {
+    "column": "cov_type_ngs",
+    "available_since": "2018/08/09",
+    "coverage_since": 24.4325
+  },
+  "cp": {
+    "column": "cp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "cpoe": {
+    "column": "cpoe",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "crr": {
+    "column": "crr",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "db": {
+    "column": "db",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "dblz": {
+    "column": "dblz",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "def": {
+    "column": "def",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "def_personnel": {
+    "column": "def_personnel",
+    "available_since": "2016/08/11",
+    "coverage_since": 34.2243
+  },
+  "def_score": {
+    "column": "def_score",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "def_score_post": {
+    "column": "def_score_post",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "def_to_rem": {
+    "column": "def_to_rem",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "deleted": {
+    "column": "deleted",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1135
+  },
+  "desc": {
+    "column": "desc",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "dot": {
+    "column": "dot",
+    "available_since": "2001/01/06",
+    "coverage_since": 91.0947
+  },
+  "drive_end_play_id": {
+    "column": "drive_end_play_id",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_end_qtr": {
+    "column": "drive_end_qtr",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_end_transition": {
+    "column": "drive_end_transition",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_end_ydl": {
+    "column": "drive_end_ydl",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_fds": {
+    "column": "drive_fds",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_game_clock_end": {
+    "column": "drive_game_clock_end",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_game_clock_start": {
+    "column": "drive_game_clock_start",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_inside20": {
+    "column": "drive_inside20",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_play_count": {
+    "column": "drive_play_count",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1001
+  },
+  "drive_result": {
+    "column": "drive_result",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_score": {
+    "column": "drive_score",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_seq": {
+    "column": "drive_seq",
+    "available_since": "2001/01/06",
+    "coverage_since": 98.9792
+  },
+  "drive_start_play_id": {
+    "column": "drive_start_play_id",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_start_qtr": {
+    "column": "drive_start_qtr",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_start_transition": {
+    "column": "drive_start_transition",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_start_ydl": {
+    "column": "drive_start_ydl",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_top": {
+    "column": "drive_top",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drive_yds": {
+    "column": "drive_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 95.8764
+  },
+  "drive_yds_penalized": {
+    "column": "drive_yds_penalized",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "drp": {
+    "column": "drp",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "dwn": {
+    "column": "dwn",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "ep": {
+    "column": "ep",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "ep_att": {
+    "column": "ep_att",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "ep_result": {
+    "column": "ep_result",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "ep_succ": {
+    "column": "ep_succ",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "epa": {
+    "column": "epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "esbid": {
+    "column": "esbid",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "extra_point_prob": {
+    "column": "extra_point_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fd": {
+    "column": "fd",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3418
+  },
+  "fd_pass": {
+    "column": "fd_pass",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fd_penalty": {
+    "column": "fd_penalty",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fd_rush": {
+    "column": "fd_rush",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fg_att": {
+    "column": "fg_att",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fg_prob": {
+    "column": "fg_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fg_result": {
+    "column": "fg_result",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fourth_down_converted": {
+    "column": "fourth_down_converted",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fourth_down_failed": {
+    "column": "fourth_down_failed",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fread": {
+    "column": "fread",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "fum": {
+    "column": "fum",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "fuml": {
+    "column": "fuml",
+    "available_since": "2001/01/06",
+    "coverage_since": 71.1484
+  },
+  "game_clock_end": {
+    "column": "game_clock_end",
+    "available_since": "2022/10/02",
+    "coverage_since": 0.0403
+  },
+  "game_clock_start": {
+    "column": "game_clock_start",
+    "available_since": "2001/01/06",
+    "coverage_since": 68.5426
+  },
+  "gtg": {
+    "column": "gtg",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1135
+  },
+  "hash": {
+    "column": "hash",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "high": {
+    "column": "high",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "home_score": {
+    "column": "home_score",
+    "available_since": "2002/08/03",
+    "coverage_since": 95.5541
+  },
+  "home_to_rem": {
+    "column": "home_to_rem",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "home_wp": {
+    "column": "home_wp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "home_wp_post": {
+    "column": "home_wp_post",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "htm": {
+    "column": "htm",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "incomp": {
+    "column": "incomp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "int": {
+    "column": "int",
+    "available_since": "2001/01/06",
+    "coverage_since": 83.7072
+  },
+  "int_worthy": {
+    "column": "int_worthy",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "intp_gsis": {
+    "column": "intp_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 79.3687
+  },
+  "intp_pid": {
+    "column": "intp_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 78.6031
+  },
+  "kick_distance": {
+    "column": "kick_distance",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "kickoff_att": {
+    "column": "kickoff_att",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "man_zone_ngs": {
+    "column": "man_zone_ngs",
+    "available_since": "2018/08/09",
+    "coverage_since": 24.4325
+  },
+  "mbt": {
+    "column": "mbt",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "mot": {
+    "column": "mot",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "next_play_type": {
+    "column": "next_play_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 98.2942
+  },
+  "nh": {
+    "column": "nh",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "no_score_prob": {
+    "column": "no_score_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "off": {
+    "column": "off",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "off_formation": {
+    "column": "off_formation",
+    "available_since": "2016/08/11",
+    "coverage_since": 34.2109
+  },
+  "off_personnel": {
+    "column": "off_personnel",
+    "available_since": "2016/08/11",
+    "coverage_since": 34.2243
+  },
+  "oob": {
+    "column": "oob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "oop": {
+    "column": "oop",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "oopd": {
+    "column": "oopd",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "opp_fg_prob": {
+    "column": "opp_fg_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "opp_safety_prob": {
+    "column": "opp_safety_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "opp_td_prob": {
+    "column": "opp_td_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "option": {
+    "column": "option",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "pap": {
+    "column": "pap",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "pass": {
+    "column": "pass",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "pass_oe": {
+    "column": "pass_oe",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "pass_td": {
+    "column": "pass_td",
+    "available_since": "2001/01/06",
+    "coverage_since": 92.9752
+  },
+  "pass_yds": {
+    "column": "pass_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "pen_team": {
+    "column": "pen_team",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "pen_yds": {
+    "column": "pen_yds",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "penalty": {
+    "column": "penalty",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1135
+  },
+  "pfp": {
+    "column": "pfp",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "phyb": {
+    "column": "phyb",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "play_clock": {
+    "column": "play_clock",
+    "available_since": "2001/01/06",
+    "coverage_since": 69.0128
+  },
+  "play_type": {
+    "column": "play_type",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.8959
+  },
+  "play_type_nfl": {
+    "column": "play_type_nfl",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1135
+  },
+  "play_type_ngs": {
+    "column": "play_type_ngs",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.9899
+  },
+  "player_fuml_gsis": {
+    "column": "player_fuml_gsis",
+    "available_since": "2002/08/08",
+    "coverage_since": 67.2263
+  },
+  "player_fuml_pid": {
+    "column": "player_fuml_pid",
+    "available_since": "2002/08/08",
+    "coverage_since": 66.904
+  },
+  "playId": {
+    "column": "playId",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "pos_score": {
+    "column": "pos_score",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "pos_score_post": {
+    "column": "pos_score_post",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "pos_team": {
+    "column": "pos_team",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.9866
+  },
+  "pos_team_id": {
+    "column": "pos_team_id",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.9899
+  },
+  "pos_to_rem": {
+    "column": "pos_to_rem",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "pru": {
+    "column": "pru",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "pru_ngs": {
+    "column": "pru_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 34.2109
+  },
+  "psr_gsis": {
+    "column": "psr_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.8959
+  },
+  "psr_pid": {
+    "column": "psr_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 94.8959
+  },
+  "punt_att": {
+    "column": "punt_att",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "punt_blocked": {
+    "column": "punt_blocked",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "qb_epa": {
+    "column": "qb_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "qb_hit": {
+    "column": "qb_hit",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "qb_hurry": {
+    "column": "qb_hurry",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "qb_pressure": {
+    "column": "qb_pressure",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "qb_pressure_ngs": {
+    "column": "qb_pressure_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 33.7945
+  },
+  "qbd": {
+    "column": "qbd",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "qbk": {
+    "column": "qbk",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "qbru": {
+    "column": "qbru",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "qbs": {
+    "column": "qbs",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "qbsk": {
+    "column": "qbsk",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "qbta": {
+    "column": "qbta",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "qtr": {
+    "column": "qtr",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "recv_yds": {
+    "column": "recv_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "ret_td": {
+    "column": "ret_td",
+    "available_since": "2001/01/06",
+    "coverage_since": 20
+  },
+  "ret_tm": {
+    "column": "ret_tm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "ret_yds": {
+    "column": "ret_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 83.7072
+  },
+  "review": {
+    "column": "review",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "route_ngs": {
+    "column": "route_ngs",
+    "available_since": "2016/08/27",
+    "coverage_since": 32.9752
+  },
+  "run_gap": {
+    "column": "run_gap",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "run_location": {
+    "column": "run_location",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "rush": {
+    "column": "rush",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "rush_td": {
+    "column": "rush_td",
+    "available_since": "2001/01/06",
+    "coverage_since": 81.5581
+  },
+  "rush_yds": {
+    "column": "rush_yds",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "safety": {
+    "column": "safety",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "safety_prob": {
+    "column": "safety_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "score": {
+    "column": "score",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "score_diff": {
+    "column": "score_diff",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "score_diff_post": {
+    "column": "score_diff_post",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "score_team": {
+    "column": "score_team",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1001
+  },
+  "score_type": {
+    "column": "score_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1001
+  },
+  "scre": {
+    "column": "scre",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "scrm": {
+    "column": "scrm",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "seas_type": {
+    "column": "seas_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "sec_rem_gm": {
+    "column": "sec_rem_gm",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "sec_rem_half": {
+    "column": "sec_rem_half",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "sec_rem_qtr": {
+    "column": "sec_rem_qtr",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "sep": {
+    "column": "sep",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "sequence": {
+    "column": "sequence",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "series_result": {
+    "column": "series_result",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "series_seq": {
+    "column": "series_seq",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "series_suc": {
+    "column": "series_suc",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "sg": {
+    "column": "sg",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "shov": {
+    "column": "shov",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "side": {
+    "column": "side",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "sk": {
+    "column": "sk",
+    "available_since": "2001/01/06",
+    "coverage_since": 97.3002
+  },
+  "sneak": {
+    "column": "sneak",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "solo_tk": {
+    "column": "solo_tk",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "special": {
+    "column": "special",
+    "available_since": "2002/08/03",
+    "coverage_since": 95.5541
+  },
+  "special_play_type": {
+    "column": "special_play_type",
+    "available_since": "2001/01/06",
+    "coverage_since": 15.7152
+  },
+  "state": {
+    "column": "state",
+    "available_since": "2002/08/03",
+    "coverage_since": 95.0034
+  },
+  "stnt": {
+    "column": "stnt",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "succ": {
+    "column": "succ",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "tay": {
+    "column": "tay",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "td": {
+    "column": "td",
+    "available_since": "2001/01/06",
+    "coverage_since": 98.5225
+  },
+  "td_prob": {
+    "column": "td_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "td_tm": {
+    "column": "td_tm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "tfl": {
+    "column": "tfl",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "third_down_converted": {
+    "column": "third_down_converted",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "third_down_failed": {
+    "column": "third_down_failed",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "time_to_throw_ngs": {
+    "column": "time_to_throw_ngs",
+    "available_since": "2016/08/11",
+    "coverage_since": 33.7945
+  },
+  "timestamp": {
+    "column": "timestamp",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1135
+  },
+  "tlook": {
+    "column": "tlook",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "to": {
+    "column": "to",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "to_team": {
+    "column": "to_team",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_comp_air_epa": {
+    "column": "total_away_comp_air_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_comp_air_wpa": {
+    "column": "total_away_comp_air_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_comp_yac_epa": {
+    "column": "total_away_comp_yac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_comp_yac_wpa": {
+    "column": "total_away_comp_yac_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_epa": {
+    "column": "total_away_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_pass_epa": {
+    "column": "total_away_pass_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_pass_wpa": {
+    "column": "total_away_pass_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_raw_air_epa": {
+    "column": "total_away_raw_air_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_raw_air_wpa": {
+    "column": "total_away_raw_air_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_raw_yac_epa": {
+    "column": "total_away_raw_yac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_raw_yac_wpa": {
+    "column": "total_away_raw_yac_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_rush_epa": {
+    "column": "total_away_rush_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_away_rush_wpa": {
+    "column": "total_away_rush_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_comp_air_epa": {
+    "column": "total_home_comp_air_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_comp_air_wpa": {
+    "column": "total_home_comp_air_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_comp_yac_epa": {
+    "column": "total_home_comp_yac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_comp_yac_wpa": {
+    "column": "total_home_comp_yac_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_epa": {
+    "column": "total_home_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_pass_epa": {
+    "column": "total_home_pass_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_pass_wpa": {
+    "column": "total_home_pass_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_raw_air_epa": {
+    "column": "total_home_raw_air_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_raw_air_wpa": {
+    "column": "total_home_raw_air_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_raw_yac_epa": {
+    "column": "total_home_raw_yac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_raw_yac_wpa": {
+    "column": "total_home_raw_yac_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_rush_epa": {
+    "column": "total_home_rush_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "total_home_rush_wpa": {
+    "column": "total_home_rush_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "touchback": {
+    "column": "touchback",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "tp_result": {
+    "column": "tp_result",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "trg_gsis": {
+    "column": "trg_gsis",
+    "available_since": "2002/08/03",
+    "coverage_since": 88.2874
+  },
+  "trg_pid": {
+    "column": "trg_pid",
+    "available_since": "2002/08/03",
+    "coverage_since": 88.2874
+  },
+  "trick": {
+    "column": "trick",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "ttp": {
+    "column": "ttp",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "ttpr": {
+    "column": "ttpr",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "ttscrm": {
+    "column": "ttscrm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "ttsk": {
+    "column": "ttsk",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "two_att": {
+    "column": "two_att",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "two_conv_prob": {
+    "column": "two_conv_prob",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "updated": {
+    "column": "updated",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "vegas_home_wp": {
+    "column": "vegas_home_wp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "vegas_home_wpa": {
+    "column": "vegas_home_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "vegas_wp": {
+    "column": "vegas_wp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "vegas_wpa": {
+    "column": "vegas_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "week": {
+    "column": "week",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "wp": {
+    "column": "wp",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "wpa": {
+    "column": "wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "xlm": {
+    "column": "xlm",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "xpass_prob": {
+    "column": "xpass_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "xyac_epa": {
+    "column": "xyac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "xyac_fd_prob": {
+    "column": "xyac_fd_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "xyac_mean_yds": {
+    "column": "xyac_mean_yds",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "xyac_median_yds": {
+    "column": "xyac_median_yds",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "xyac_succ_prob": {
+    "column": "xyac_succ_prob",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "yac": {
+    "column": "yac",
+    "available_since": "2006/08/06",
+    "coverage_since": 77.0316
+  },
+  "yac_epa": {
+    "column": "yac_epa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "yac_wpa": {
+    "column": "yac_wpa",
+    "available_since": "2022/09/08",
+    "coverage_since": 7.6427
+  },
+  "yaco": {
+    "column": "yaco",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  },
+  "ydl_100": {
+    "column": "ydl_100",
+    "available_since": "2001/01/06",
+    "coverage_since": 98.7643
+  },
+  "ydl_end": {
+    "column": "ydl_end",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1001
+  },
+  "ydl_num": {
+    "column": "ydl_num",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.9194
+  },
+  "ydl_side": {
+    "column": "ydl_side",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.9194
+  },
+  "ydl_start": {
+    "column": "ydl_start",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.1135
+  },
+  "yds_gained": {
+    "column": "yds_gained",
+    "available_since": "2001/01/06",
+    "coverage_since": 99.3284
+  },
+  "year": {
+    "column": "year",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "yfog": {
+    "column": "yfog",
+    "available_since": null,
+    "coverage_since": null
+  },
+  "ytg": {
+    "column": "ytg",
+    "available_since": "2001/01/06",
+    "coverage_since": 100
+  },
+  "zblz": {
+    "column": "zblz",
+    "available_since": "2021/09/10",
+    "coverage_since": 2.9953
+  }
+}
