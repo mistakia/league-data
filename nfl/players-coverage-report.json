@@ -1,0 +1,210 @@
+{
+  "pid": {
+    "column": "pid",
+    "coverage": 100
+  },
+  "fname": {
+    "column": "fname",
+    "coverage": 100
+  },
+  "lname": {
+    "column": "lname",
+    "coverage": 100
+  },
+  "pname": {
+    "column": "pname",
+    "coverage": 100
+  },
+  "formatted": {
+    "column": "formatted",
+    "coverage": 100
+  },
+  "pos": {
+    "column": "pos",
+    "coverage": 100
+  },
+  "pos1": {
+    "column": "pos1",
+    "coverage": 100
+  },
+  "pos2": {
+    "column": "pos2",
+    "coverage": 50.42705580451185
+  },
+  "height": {
+    "column": "height",
+    "coverage": 100
+  },
+  "weight": {
+    "column": "weight",
+    "coverage": 100
+  },
+  "dob": {
+    "column": "dob",
+    "coverage": 100
+  },
+  "forty": {
+    "column": "forty",
+    "coverage": 42.69792025738251
+  },
+  "bench": {
+    "column": "bench",
+    "coverage": 32.50986249952124
+  },
+  "vertical": {
+    "column": "vertical",
+    "coverage": 37.148109847179136
+  },
+  "broad": {
+    "column": "broad",
+    "coverage": 36.5965758933701
+  },
+  "shuttle": {
+    "column": "shuttle",
+    "coverage": 33.026925581217206
+  },
+  "cone": {
+    "column": "cone",
+    "coverage": 32.49071201501398
+  },
+  "arm": {
+    "column": "arm",
+    "coverage": 27.519246236929796
+  },
+  "hand": {
+    "column": "hand",
+    "coverage": 27.43881420199931
+  },
+  "dpos": {
+    "column": "dpos",
+    "coverage": 41.062468880462674
+  },
+  "round": {
+    "column": "round",
+    "coverage": 99.34505342985177
+  },
+  "col": {
+    "column": "col",
+    "coverage": 99.0194951932284
+  },
+  "dv": {
+    "column": "dv",
+    "coverage": 46.66973074418783
+  },
+  "start": {
+    "column": "start",
+    "coverage": 100
+  },
+  "current_nfl_team": {
+    "column": "current_nfl_team",
+    "coverage": 100
+  },
+  "posd": {
+    "column": "posd",
+    "coverage": 100
+  },
+  "jnum": {
+    "column": "jnum",
+    "coverage": 99.9923398061971
+  },
+  "dcp": {
+    "column": "dcp",
+    "coverage": 99.23398061970968
+  },
+  "nflid": {
+    "column": "nflid",
+    "coverage": 47.67321613236815
+  },
+  "esbid": {
+    "column": "esbid",
+    "coverage": 67.59355011681795
+  },
+  "gsisid": {
+    "column": "gsisid",
+    "coverage": 53.98904592286185
+  },
+  "gsispid": {
+    "column": "gsispid",
+    "coverage": 40.392201922708644
+  },
+  "gsisItId": {
+    "column": "gsisItId",
+    "coverage": 28.403998621165115
+  },
+  "status": {
+    "column": "status",
+    "coverage": 33.03075567811866
+  },
+  "nfl_status": {
+    "column": "nfl_status",
+    "coverage": 75.30353517944005
+  },
+  "injury_status": {
+    "column": "injury_status",
+    "coverage": 1.8920678693170938
+  },
+  "high_school": {
+    "column": "high_school",
+    "coverage": 84.31958328545713
+  },
+  "sleeper_id": {
+    "column": "sleeper_id",
+    "coverage": 29.043624803707534
+  },
+  "rotoworld_id": {
+    "column": "rotoworld_id",
+    "coverage": 19.39944080585239
+  },
+  "rotowire_id": {
+    "column": "rotowire_id",
+    "coverage": 34.18361484545559
+  },
+  "sportradar_id": {
+    "column": "sportradar_id",
+    "coverage": 30.19648397104447
+  },
+  "espn_id": {
+    "column": "espn_id",
+    "coverage": 28.15504232257076
+  },
+  "fantasy_data_id": {
+    "column": "fantasy_data_id",
+    "coverage": 23.21421731969819
+  },
+  "yahoo_id": {
+    "column": "yahoo_id",
+    "coverage": 26.523421042552375
+  },
+  "keeptradecut_id": {
+    "column": "keeptradecut_id",
+    "coverage": 2.5968056991841895
+  },
+  "pfr_id": {
+    "column": "pfr_id",
+    "coverage": 46.96081810869815
+  },
+  "name_search_vector": {
+    "column": "name_search_vector",
+    "coverage": 76.55980696311617
+  },
+  "ngs_athleticism_score": {
+    "column": "ngs_athleticism_score",
+    "coverage": 21.586426136581256
+  },
+  "ngs_draft_grade": {
+    "column": "ngs_draft_grade",
+    "coverage": 21.586426136581256
+  },
+  "nfl_grade": {
+    "column": "nfl_grade",
+    "coverage": 21.50599410165077
+  },
+  "ngs_production_score": {
+    "column": "ngs_production_score",
+    "coverage": 21.586426136581256
+  },
+  "ngs_size_score": {
+    "column": "ngs_size_score",
+    "coverage": 19.40327090275384
+  }
+}
